@@ -1,0 +1,919 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="C - teren cmentarza" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{afd38d2f-74cf-4c16-9bba-82b4dcd57895}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="145,185,175,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="G - teren górnictwa i wydobycia" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{8fea81e2-8e66-41df-99ec-f16c0dad99ac}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="232,214,233,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="I - teren infrastruktury technicznej" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{10dd3797-f4d1-4f37-b224-0c9cf03c90c3}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="220,220,220,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="KD, KK, KL - teren komunikacji drogowej publicznej, komunikacji kolejowej i szynowej, komunikacji lotniczej" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{7526aa3f-ad88-4236-8092-ed0937c5b792}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="255,255,255,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="KR, KP, KO - teren komunikacji drogowej wewnętrznej oraz pieszo-rowerowej, teren obsługi komunikacji" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{94908493-e68e-4d6c-921d-849b1d404805}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="240,240,240,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="KW - teren komunikacji wodnej" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{100e0276-b097-4d16-9888-c068aced4e4e}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="215,239,244,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="L - teren lasu" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{a5bc2cd9-4af4-4c1c-b1eb-1914f6c03f46}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="101,176,101,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="line" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="Linia rozgraniczająca tereny o różnym przeznaczeniu lub różnych zasadach zagospodarowania " tags="mpzp,linia,oznaczenie,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{d57d0eb5-9c92-475a-8030-91e1f7317ad2}" class="SimpleLine" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="align_dash_pattern" value="0"/>
+          <Option type="QString" name="capstyle" value="flat"/>
+          <Option type="QString" name="customdash" value="5;2"/>
+          <Option type="QString" name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="customdash_unit" value="MM"/>
+          <Option type="QString" name="dash_pattern_offset" value="0"/>
+          <Option type="QString" name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="dash_pattern_offset_unit" value="MM"/>
+          <Option type="QString" name="draw_inside_polygon" value="0"/>
+          <Option type="QString" name="joinstyle" value="round"/>
+          <Option type="QString" name="line_color" value="35,35,35,255"/>
+          <Option type="QString" name="line_style" value="solid"/>
+          <Option type="QString" name="line_width" value="0.7"/>
+          <Option type="QString" name="line_width_unit" value="MM"/>
+          <Option type="QString" name="offset" value="0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="ring_filter" value="0"/>
+          <Option type="QString" name="trim_distance_end" value="0"/>
+          <Option type="QString" name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_end_unit" value="MM"/>
+          <Option type="QString" name="trim_distance_start" value="0"/>
+          <Option type="QString" name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_start_unit" value="MM"/>
+          <Option type="QString" name="tweak_dash_pattern_on_corners" value="0"/>
+          <Option type="QString" name="use_custom_dash" value="0"/>
+          <Option type="QString" name="width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="M - tereny zabudowy mieszkaniowej" tags="style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{121e3a38-0992-4bfe-858d-ed165cbefd6a}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="219,162,60,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="ML - teren zabudowy letniskowej lub rekreacji indywidualnej" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{d9c0c420-3208-4d31-87f8-5eb017eb7015}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="199,151,127,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="MN - tereny zabudowy mieszkaniowej jednorodzinnej" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{fef904d5-be06-4e94-8587-ca9b4d808499}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="219,162,60,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="MW - tereny zabudowy mieszkaniowej wielorodzinnej" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{19ea59ca-03ee-451b-b7e1-d0494388b878}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="158,105,60,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="N - teren niesklasyfikowany" tags="teren,mpzp,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{ef527cc2-4d8a-4894-928b-bf42eec4fe79}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="176,176,176,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="P - teren produkcji" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{8b50d7c1-5854-4d50-ad9c-fdf5b109772c}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="145,100,175,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="RA -teren akwakultury i obsługi rybactwa" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{2e439d9a-3f55-4009-9b2d-eccb2859a46e}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="102,204,255,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="RN - teren rolnictwa z zakazem zabudowy" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{cff331bd-ab73-4727-b2e7-5dc2d0c1e414}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="255,255,173,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="RZ - teren zabudowy związanej z rolnictwem" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{9c90e440-1fc3-4fbe-8f6b-1b802d434afd}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="254,220,0,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="U - teren usług" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{c9d19ee8-9791-468c-9dd7-803e0f93b422}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="242,98,65,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="W - teren wód" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{2db65342-3209-40cb-9e06-f3fc944096fa}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="86,134,197,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="fill" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="Z - teren zieleni" tags="mpzp,teren,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{a07a45d6-a9b8-4a9f-aa9c-674a85ba819f}" class="SimpleFill" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="color" value="162,209,115,255"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="outline_color" value="35,35,35,255"/>
+          <Option type="QString" name="outline_style" value="solid"/>
+          <Option type="QString" name="outline_width" value="0.26"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="style" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="line" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="granica obszaru objętego miejscowym planem zagospodarowania przestrzennego" tags="mpzp,oznaczenie,linia,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{dc6539ea-f9bd-4787-b7bc-3b47055421e6}" class="SimpleLine" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="align_dash_pattern" value="0"/>
+          <Option type="QString" name="capstyle" value="flat"/>
+          <Option type="QString" name="customdash" value="6;2"/>
+          <Option type="QString" name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="customdash_unit" value="MM"/>
+          <Option type="QString" name="dash_pattern_offset" value="0"/>
+          <Option type="QString" name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="dash_pattern_offset_unit" value="MM"/>
+          <Option type="QString" name="draw_inside_polygon" value="0"/>
+          <Option type="QString" name="joinstyle" value="round"/>
+          <Option type="QString" name="line_color" value="35,35,35,255"/>
+          <Option type="QString" name="line_style" value="solid"/>
+          <Option type="QString" name="line_width" value="1.5"/>
+          <Option type="QString" name="line_width_unit" value="MM"/>
+          <Option type="QString" name="offset" value="0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="ring_filter" value="0"/>
+          <Option type="QString" name="trim_distance_end" value="0"/>
+          <Option type="QString" name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_end_unit" value="MM"/>
+          <Option type="QString" name="trim_distance_start" value="0"/>
+          <Option type="QString" name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_start_unit" value="MM"/>
+          <Option type="QString" name="tweak_dash_pattern_on_corners" value="0"/>
+          <Option type="QString" name="use_custom_dash" value="1"/>
+          <Option type="QString" name="width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="line" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="nieprzekraczalna linia zabudowy" tags="mpzp,linia,oznaczenie,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{f65cc22d-a2ce-4fe4-be42-0e774108f028}" class="SimpleLine" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="align_dash_pattern" value="0"/>
+          <Option type="QString" name="capstyle" value="flat"/>
+          <Option type="QString" name="customdash" value="5;2"/>
+          <Option type="QString" name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="customdash_unit" value="MM"/>
+          <Option type="QString" name="dash_pattern_offset" value="0"/>
+          <Option type="QString" name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="dash_pattern_offset_unit" value="MM"/>
+          <Option type="QString" name="draw_inside_polygon" value="0"/>
+          <Option type="QString" name="joinstyle" value="round"/>
+          <Option type="QString" name="line_color" value="35,35,35,255"/>
+          <Option type="QString" name="line_style" value="solid"/>
+          <Option type="QString" name="line_width" value="0.35"/>
+          <Option type="QString" name="line_width_unit" value="MM"/>
+          <Option type="QString" name="offset" value="0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="ring_filter" value="0"/>
+          <Option type="QString" name="trim_distance_end" value="0"/>
+          <Option type="QString" name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_end_unit" value="MM"/>
+          <Option type="QString" name="trim_distance_start" value="0"/>
+          <Option type="QString" name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_start_unit" value="MM"/>
+          <Option type="QString" name="tweak_dash_pattern_on_corners" value="0"/>
+          <Option type="QString" name="use_custom_dash" value="0"/>
+          <Option type="QString" name="width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer enabled="1" id="{88c7699f-67fe-4cff-8ce2-d5688150f739}" class="MarkerLine" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="average_angle_length" value="4"/>
+          <Option type="QString" name="average_angle_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="average_angle_unit" value="MM"/>
+          <Option type="QString" name="interval" value="8"/>
+          <Option type="QString" name="interval_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="interval_unit" value="MM"/>
+          <Option type="QString" name="offset" value="0"/>
+          <Option type="QString" name="offset_along_line" value="0"/>
+          <Option type="QString" name="offset_along_line_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_along_line_unit" value="MM"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="bool" name="place_on_every_part" value="true"/>
+          <Option type="QString" name="placements" value="Interval"/>
+          <Option type="QString" name="ring_filter" value="0"/>
+          <Option type="QString" name="rotate" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol force_rhr="0" type="marker" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="@nieprzekraczalna linia zabudowy@1">
+          <data_defined_properties>
+            <Option type="Map">
+              <Option type="QString" name="name" value=""/>
+              <Option name="properties"/>
+              <Option type="QString" name="type" value="collection"/>
+            </Option>
+          </data_defined_properties>
+          <layer enabled="1" id="{be2e6890-5536-4004-92be-6567ab215a5b}" class="SimpleMarker" locked="0" pass="0">
+            <Option type="Map">
+              <Option type="QString" name="angle" value="0"/>
+              <Option type="QString" name="cap_style" value="square"/>
+              <Option type="QString" name="color" value="255,255,255,255"/>
+              <Option type="QString" name="horizontal_anchor_point" value="1"/>
+              <Option type="QString" name="joinstyle" value="bevel"/>
+              <Option type="QString" name="name" value="equilateral_triangle"/>
+              <Option type="QString" name="offset" value="0,0.55000000000000004"/>
+              <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+              <Option type="QString" name="offset_unit" value="MM"/>
+              <Option type="QString" name="outline_color" value="35,35,35,255"/>
+              <Option type="QString" name="outline_style" value="solid"/>
+              <Option type="QString" name="outline_width" value="0.35"/>
+              <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+              <Option type="QString" name="outline_width_unit" value="MM"/>
+              <Option type="QString" name="scale_method" value="diameter"/>
+              <Option type="QString" name="size" value="2.35"/>
+              <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+              <Option type="QString" name="size_unit" value="MM"/>
+              <Option type="QString" name="vertical_anchor_point" value="2"/>
+            </Option>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="line" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="obowiązująca linia zabudowy" tags="mpzp,linia,oznaczenie,style_mpzp">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" id="{8a0c71a2-9293-4d5b-8673-936a43572602}" class="SimpleLine" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="align_dash_pattern" value="0"/>
+          <Option type="QString" name="capstyle" value="square"/>
+          <Option type="QString" name="customdash" value="5;2"/>
+          <Option type="QString" name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="customdash_unit" value="MM"/>
+          <Option type="QString" name="dash_pattern_offset" value="0"/>
+          <Option type="QString" name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="dash_pattern_offset_unit" value="MM"/>
+          <Option type="QString" name="draw_inside_polygon" value="0"/>
+          <Option type="QString" name="joinstyle" value="bevel"/>
+          <Option type="QString" name="line_color" value="35,35,35,255"/>
+          <Option type="QString" name="line_style" value="solid"/>
+          <Option type="QString" name="line_width" value="0.35"/>
+          <Option type="QString" name="line_width_unit" value="MM"/>
+          <Option type="QString" name="offset" value="0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="QString" name="ring_filter" value="0"/>
+          <Option type="QString" name="trim_distance_end" value="0"/>
+          <Option type="QString" name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_end_unit" value="MM"/>
+          <Option type="QString" name="trim_distance_start" value="0"/>
+          <Option type="QString" name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="trim_distance_start_unit" value="MM"/>
+          <Option type="QString" name="tweak_dash_pattern_on_corners" value="0"/>
+          <Option type="QString" name="use_custom_dash" value="0"/>
+          <Option type="QString" name="width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer enabled="1" id="{9117e1c9-7186-46fc-967f-9377e9d38790}" class="MarkerLine" locked="0" pass="0">
+        <Option type="Map">
+          <Option type="QString" name="average_angle_length" value="4"/>
+          <Option type="QString" name="average_angle_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="average_angle_unit" value="MM"/>
+          <Option type="QString" name="interval" value="8"/>
+          <Option type="QString" name="interval_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="interval_unit" value="MM"/>
+          <Option type="QString" name="offset" value="0"/>
+          <Option type="QString" name="offset_along_line" value="0"/>
+          <Option type="QString" name="offset_along_line_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_along_line_unit" value="MM"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="MM"/>
+          <Option type="bool" name="place_on_every_part" value="true"/>
+          <Option type="QString" name="placements" value="Interval"/>
+          <Option type="QString" name="ring_filter" value="0"/>
+          <Option type="QString" name="rotate" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol force_rhr="0" type="marker" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" name="@obowiązująca linia zabudowy@1">
+          <data_defined_properties>
+            <Option type="Map">
+              <Option type="QString" name="name" value=""/>
+              <Option name="properties"/>
+              <Option type="QString" name="type" value="collection"/>
+            </Option>
+          </data_defined_properties>
+          <layer enabled="1" id="{d08eff87-d5bd-4dc2-92f4-2266b328c650}" class="SimpleMarker" locked="0" pass="0">
+            <Option type="Map">
+              <Option type="QString" name="angle" value="0"/>
+              <Option type="QString" name="cap_style" value="square"/>
+              <Option type="QString" name="color" value="0,0,0,255"/>
+              <Option type="QString" name="horizontal_anchor_point" value="1"/>
+              <Option type="QString" name="joinstyle" value="bevel"/>
+              <Option type="QString" name="name" value="equilateral_triangle"/>
+              <Option type="QString" name="offset" value="0,0.40000000000000002"/>
+              <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+              <Option type="QString" name="offset_unit" value="MM"/>
+              <Option type="QString" name="outline_color" value="35,35,35,255"/>
+              <Option type="QString" name="outline_style" value="solid"/>
+              <Option type="QString" name="outline_width" value="0"/>
+              <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+              <Option type="QString" name="outline_width_unit" value="MM"/>
+              <Option type="QString" name="scale_method" value="diameter"/>
+              <Option type="QString" name="size" value="2.35"/>
+              <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+              <Option type="QString" name="size_unit" value="MM"/>
+              <Option type="QString" name="vertical_anchor_point" value="2"/>
+            </Option>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
